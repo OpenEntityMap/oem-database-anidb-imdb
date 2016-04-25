@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1951",
+        "imdb": "tt1147516"
+    },
+    "names": [
+        "Doraemon: Nobita no Wan Nyan Jikuuden"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "-1"
+    }
+}

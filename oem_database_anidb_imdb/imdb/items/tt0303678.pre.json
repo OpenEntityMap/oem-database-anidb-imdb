@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "237",
+        "imdb": "tt0303678"
+    },
+    "names": [
+        "Armitage III: Dual Matrix"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "AIC"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2850",
+        "imdb": "tt0109422"
+    },
+    "names": [
+        "Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

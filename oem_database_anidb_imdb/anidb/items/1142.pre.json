@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1142",
+        "imdb": "tt0142248"
+    },
+    "names": [
+        "Dragon Ball: Makafushigi Daibouken"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

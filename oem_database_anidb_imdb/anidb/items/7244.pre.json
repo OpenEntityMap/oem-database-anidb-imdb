@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7244",
+        "imdb": "tt1645129"
+    },
+    "names": [
+        "Planzet"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "CoMix Wave"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "803",
+        "imdb": "tt0420138"
+    },
+    "names": [
+        "Lupin Sansei: Ikiteita Majutsushi"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "22"
+    }
+}

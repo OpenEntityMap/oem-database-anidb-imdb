@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1220",
+        "imdb": "tt0092218"
+    },
+    "names": [
+        "Windaria"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

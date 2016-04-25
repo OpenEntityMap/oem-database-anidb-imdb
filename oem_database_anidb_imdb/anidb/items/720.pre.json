@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "720",
+        "imdb": "tt0095262"
+    },
+    "names": [
+        "Kidou Senshi Gundam: Gyakushuu no Char"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

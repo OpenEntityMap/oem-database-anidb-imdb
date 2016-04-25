@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "2033",
+        "imdb": "tt0169951"
+    },
+    "names": [
+        "Ginga Tetsudou 999: Eternal Fantasy"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "7"
+    }
+}

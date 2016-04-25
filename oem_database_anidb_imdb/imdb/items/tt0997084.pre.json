@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1253",
+        "imdb": "tt0997084"
+    },
+    "names": [
+        "One Piece: Chinjuujima no Chopper Oukoku"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "5"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4480",
+        "imdb": "tt2048864"
+    },
+    "names": [
+        "Speed"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

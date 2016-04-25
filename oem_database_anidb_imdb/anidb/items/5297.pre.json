@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5297",
+        "imdb": "tt1092385"
+    },
+    "names": [
+        "Miyori no Mori"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Nippon Animation"
+    }
+}

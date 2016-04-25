@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1312",
+        "imdb": "tt0401233"
+    },
+    "names": [
+        "Appleseed (2004)"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Digital Frontier"
+    }
+}

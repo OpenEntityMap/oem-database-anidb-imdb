@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1308",
+        "imdb": "tt0107382"
+    },
+    "names": [
+        "Ginga Eiyuu Densetsu: Aratanaru Tatakai no Overture"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

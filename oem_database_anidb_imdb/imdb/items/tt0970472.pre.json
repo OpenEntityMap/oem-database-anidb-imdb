@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5106",
+        "imdb": "tt0970472"
+    },
+    "names": [
+        "Vexille: 2077 Nihon Sakoku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Oxybot"
+    }
+}

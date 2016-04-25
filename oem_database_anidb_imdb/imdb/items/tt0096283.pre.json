@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "303",
+        "imdb": "tt0096283"
+    },
+    "names": [
+        "Tonari no Totoro"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

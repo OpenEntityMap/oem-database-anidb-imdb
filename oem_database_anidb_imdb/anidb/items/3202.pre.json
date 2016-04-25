@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3202",
+        "imdb": "tt1987624"
+    },
+    "names": [
+        "Push"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

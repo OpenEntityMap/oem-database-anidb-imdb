@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1234",
+        "imdb": "tt0875155"
+    },
+    "names": [
+        "Kaze no Tairiku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

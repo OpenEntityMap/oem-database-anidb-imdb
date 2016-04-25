@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "349",
+        "imdb": "tt0161981"
+    },
+    "names": [
+        "Gekijouban Slayers"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "J.C.Staff"
+    }
+}

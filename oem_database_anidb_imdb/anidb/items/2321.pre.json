@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2321",
+        "imdb": "tt0473658"
+    },
+    "names": [
+        "Inuyasha: Guren no Houraijima"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7408",
+        "imdb": "tt1726286"
+    },
+    "names": [
+        "Gekijouban Kidou Senshi Gundam 00: A Wakening of the Trailblazer"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

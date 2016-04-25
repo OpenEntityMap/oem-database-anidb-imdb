@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "78",
+        "imdb": "tt0293416"
+    },
+    "names": [
+        "Metropolis"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

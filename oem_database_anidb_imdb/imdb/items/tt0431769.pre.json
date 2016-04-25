@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4456",
+        "imdb": "tt0431769"
+    },
+    "names": [
+        "Fumoon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

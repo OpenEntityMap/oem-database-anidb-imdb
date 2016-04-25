@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "912",
+        "imdb": "tt0107013"
+    },
+    "names": [
+        "Fantasia"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

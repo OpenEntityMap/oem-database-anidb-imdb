@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5107",
+        "imdb": "tt0876563"
+    },
+    "names": [
+        "Gake no Ue no Ponyo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Ghibli"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1889",
+        "imdb": "tt0326101"
+    },
+    "names": [
+        "Saint Seiya: Saishuu Seisen no Senshi-tachi"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9083",
+        "imdb": "tt2085930"
+    },
+    "names": [
+        "Starship Troopers: Invasion"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

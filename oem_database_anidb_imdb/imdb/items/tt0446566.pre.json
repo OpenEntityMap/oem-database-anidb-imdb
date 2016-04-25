@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "500",
+        "imdb": "tt0446566"
+    },
+    "names": [
+        "Kaidoumaru"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

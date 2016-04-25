@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5065",
+        "imdb": "tt0406197"
+    },
+    "names": [
+        "Scoopers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

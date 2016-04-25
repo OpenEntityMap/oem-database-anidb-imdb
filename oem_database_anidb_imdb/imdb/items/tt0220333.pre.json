@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "914",
+        "imdb": "tt0220333"
+    },
+    "names": [
+        "Bio Hunter"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7565",
+        "imdb": "tt0860907"
+    },
+    "names": [
+        "Evangelion Shin Gekijouban: Q"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Studio Khara"
+    }
+}

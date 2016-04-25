@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "61",
+        "imdb": "tt0113568"
+    },
+    "names": [
+        "Ghost in the Shell"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "397",
+        "imdb": "tt0142243"
+    },
+    "names": [
+        "Dragon Ball Z: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "12"
+    }
+}

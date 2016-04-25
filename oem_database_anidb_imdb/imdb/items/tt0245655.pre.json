@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8789",
+        "imdb": "tt0245655"
+    },
+    "names": [
+        "Robot Taekwon V"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

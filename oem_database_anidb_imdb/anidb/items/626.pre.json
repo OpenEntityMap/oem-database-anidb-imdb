@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "626",
+        "imdb": "tt0159568"
+    },
+    "names": [
+        "Kidou Senshi Gundam F91"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

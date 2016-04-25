@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6942",
+        "imdb": "tt1092567"
+    },
+    "names": [
+        "Beer Banzai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

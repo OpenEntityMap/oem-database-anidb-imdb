@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "275",
+        "imdb": "tt0087544"
+    },
+    "names": [
+        "Kaze no Tani no Nausicaa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Ghibli"
+    }
+}

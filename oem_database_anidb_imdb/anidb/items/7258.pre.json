@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7258",
+        "imdb": "tt1568921"
+    },
+    "names": [
+        "Karigurashi no Arrietty"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Ghibli"
+    }
+}

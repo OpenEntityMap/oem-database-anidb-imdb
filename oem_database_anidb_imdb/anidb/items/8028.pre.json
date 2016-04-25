@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8028",
+        "imdb": "tt1831572"
+    },
+    "names": [
+        "Anima"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

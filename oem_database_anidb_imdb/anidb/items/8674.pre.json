@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8674",
+        "imdb": "tt2140141"
+    },
+    "names": [
+        "Mass Effect: Paragon Lost"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

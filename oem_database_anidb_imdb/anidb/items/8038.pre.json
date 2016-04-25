@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8038",
+        "imdb": "tt0416781"
+    },
+    "names": [
+        "Hwang Geumnalgae 1.2.3."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "730",
+        "imdb": "tt0159443"
+    },
+    "names": [
+        "Five Star Stories"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

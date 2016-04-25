@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "236",
+        "imdb": "tt0109151"
+    },
+    "names": [
+        "Armitage III: Poly Matrix"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "AIC"
+    }
+}

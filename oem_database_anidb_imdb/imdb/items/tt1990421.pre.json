@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8318",
+        "imdb": "tt1990421"
+    },
+    "names": [
+        "Magic Tree House"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "490",
+        "imdb": "tt0311108"
+    },
+    "names": [
+        "Fake"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

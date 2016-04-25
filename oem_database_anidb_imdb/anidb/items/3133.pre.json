@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3133",
+        "imdb": "tt2148760"
+    },
+    "names": [
+        "Wizardry"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

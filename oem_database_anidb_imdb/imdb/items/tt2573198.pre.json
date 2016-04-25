@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9557",
+        "imdb": "tt2573198"
+    },
+    "names": [
+        "Hal"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

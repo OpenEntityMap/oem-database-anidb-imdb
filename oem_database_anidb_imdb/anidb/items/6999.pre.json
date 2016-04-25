@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6999",
+        "imdb": "tt1743330"
+    },
+    "names": [
+        "Dojoji"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

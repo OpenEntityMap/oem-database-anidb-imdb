@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2175",
+        "imdb": "tt2100394"
+    },
+    "names": [
+        "Alice in Cyberland"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

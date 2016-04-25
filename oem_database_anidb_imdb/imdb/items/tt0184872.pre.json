@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "422",
+        "imdb": "tt0184872"
+    },
+    "names": [
+        "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

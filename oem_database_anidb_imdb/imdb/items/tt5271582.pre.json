@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11790",
+        "imdb": "tt5271582"
+    },
+    "names": [
+        "Garo: Divine Flame"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

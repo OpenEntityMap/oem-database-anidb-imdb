@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "872",
+        "imdb": "tt1149379"
+    },
+    "names": [
+        "Crayon Shin-chan: Arashi o Yobu Eikou no Yakiniku Road"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "10"
+    }
+}

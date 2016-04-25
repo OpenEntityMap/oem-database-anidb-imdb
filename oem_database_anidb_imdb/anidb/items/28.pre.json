@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "28",
+        "imdb": "tt0094625"
+    },
+    "names": [
+        "Akira"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

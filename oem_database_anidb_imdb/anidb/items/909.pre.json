@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "909",
+        "imdb": "tt0348121"
+    },
+    "names": [
+        "Steamboy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
