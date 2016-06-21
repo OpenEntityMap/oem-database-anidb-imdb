@@ -11,9 +11,11 @@
             "tt1345776"
         ]
     },
-    "names": [
-        "Gekijouban Kara no Kyoukai: The Garden of Sinners"
-    ],
+    "names": {
+        "*": [
+            "Gekijouban Kara no Kyoukai: The Garden of Sinners"
+        ]
+    },
     "parameters": {
         "default_season": "1"
     }

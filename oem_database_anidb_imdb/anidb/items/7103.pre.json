@@ -10,9 +10,11 @@
             "tt1865375"
         ]
     },
-    "names": [
-        "Break Blade"
-    ],
+    "names": {
+        "*": [
+            "Break Blade"
+        ]
+    },
     "parameters": {
         "default_season": "0"
     }

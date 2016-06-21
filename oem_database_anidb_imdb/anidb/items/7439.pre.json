@@ -6,9 +6,11 @@
             "tt2231375"
         ]
     },
-    "names": [
-        "Mardock Scramble"
-    ],
+    "names": {
+        "*": [
+            "Mardock Scramble"
+        ]
+    },
     "parameters": {
         "default_season": "1"
     }
