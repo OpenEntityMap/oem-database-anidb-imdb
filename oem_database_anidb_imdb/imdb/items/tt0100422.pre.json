@@ -7,6 +7,7 @@
         "A-Ko The Versus"
     ],
     "parameters": {
-        "default_season": "1"
+        "default_season": "1",
+        "episode_offset": "1"
     }
 }
