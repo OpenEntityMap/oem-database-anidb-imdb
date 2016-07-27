@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "7439",
+        "imdb": "tt2423504"
+    },
+    "names": [
+        "Mardock Scramble"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "2"
+    }
+}

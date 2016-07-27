@@ -16,7 +16,18 @@
         },
         "2": {
             "identifiers": {
-                "imdb": "tt2231375"
+                "imdb": "tt2048804"
+            },
+            "names": [
+                "Mardock Scramble"
+            ],
+            "parameters": {
+                "default_season": "1"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "imdb": "tt2423504"
             },
             "names": [
                 "Mardock Scramble"
