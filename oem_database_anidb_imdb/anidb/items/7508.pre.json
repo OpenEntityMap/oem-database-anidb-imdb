@@ -1,0 +1,62 @@
+{
+    "identifiers": {
+        "anidb": "7508"
+    },
+    "parts": {
+        "1": {
+            "identifiers": {
+                "imdb": "tt3354096"
+            },
+            "names": [
+                "Code Geass: Boukoku no Akito"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "imdb": "tt3354254"
+            },
+            "names": [
+                "Code Geass: Boukoku no Akito"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "imdb": "tt3354302"
+            },
+            "names": [
+                "Code Geass: Boukoku no Akito"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "4": {
+            "identifiers": {
+                "imdb": "tt3354306"
+            },
+            "names": [
+                "Code Geass: Boukoku no Akito"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "5": {
+            "identifiers": {
+                "imdb": "tt5920384"
+            },
+            "names": [
+                "Code Geass: Boukoku no Akito"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        }
+    }
+}
