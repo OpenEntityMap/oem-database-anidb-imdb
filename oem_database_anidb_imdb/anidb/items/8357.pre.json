@@ -24,6 +24,17 @@
             "parameters": {
                 "default_season": "0"
             }
+        },
+        "3": {
+            "identifiers": {
+                "imdb": "tt5084198"
+            },
+            "names": [
+                "Kizumonogatari"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
         }
     }
 }

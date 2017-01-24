@@ -1,12 +1,29 @@
 {
     "identifiers": {
-        "anidb": "7507",
-        "imdb": "tt1686865"
+        "anidb": "7507"
     },
-    "names": [
-        "Tezuka Osamu no Buddha"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "parts": {
+        "1": {
+            "identifiers": {
+                "imdb": "tt1686865"
+            },
+            "names": [
+                "Tezuka Osamu no Buddha"
+            ],
+            "parameters": {
+                "default_season": "1"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "imdb": "tt2936864"
+            },
+            "names": [
+                "Tezuka Osamu no Buddha"
+            ],
+            "parameters": {
+                "default_season": "1"
+            }
+        }
     }
 }
