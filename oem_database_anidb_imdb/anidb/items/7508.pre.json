@@ -3,7 +3,7 @@
         "anidb": "7508"
     },
     "parts": {
-        "1": {
+        "25": {
             "identifiers": {
                 "imdb": "tt3354096"
             },
@@ -14,7 +14,7 @@
                 "default_season": "0"
             }
         },
-        "2": {
+        "26": {
             "identifiers": {
                 "imdb": "tt3354254"
             },
@@ -25,7 +25,7 @@
                 "default_season": "0"
             }
         },
-        "3": {
+        "27": {
             "identifiers": {
                 "imdb": "tt3354302"
             },
@@ -36,7 +36,7 @@
                 "default_season": "0"
             }
         },
-        "4": {
+        "28": {
             "identifiers": {
                 "imdb": "tt3354306"
             },
@@ -47,7 +47,7 @@
                 "default_season": "0"
             }
         },
-        "5": {
+        "29": {
             "identifiers": {
                 "imdb": "tt5920384"
             },

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "8311",
+        "imdb": "tt6302292"
+    },
+    "names": [
+        "Gekijou Remix Han Appleseed XIII"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "5"
+    }
+}
