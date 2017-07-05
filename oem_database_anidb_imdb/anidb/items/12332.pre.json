@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "12332"
+    },
+    "parts": {
+        "1": {
+            "identifiers": {
+                "imdb": "tt6799508"
+            },
+            "names": [
+                "Gekijouban Free! Timeless Medley"
+            ],
+            "parameters": {
+                "default_season": "1"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "imdb": "tt6799518"
+            },
+            "names": [
+                "Gekijouban Free! Timeless Medley"
+            ],
+            "parameters": {
+                "default_season": "1"
+            }
+        }
+    }
+}
