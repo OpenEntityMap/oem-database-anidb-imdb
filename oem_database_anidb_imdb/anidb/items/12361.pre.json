@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "12361"
+    },
+    "parts": {
+        "41": {
+            "identifiers": {
+                "imdb": "tt7833606"
+            },
+            "names": [
+                "Girls und Panzer: Saishuushou"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "42": {
+            "identifiers": {
+                "imdb": "tt7834494"
+            },
+            "names": [
+                "Girls und Panzer: Saishuushou"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        }
+    }
+}
