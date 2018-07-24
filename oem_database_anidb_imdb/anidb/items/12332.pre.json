@@ -3,7 +3,7 @@
         "anidb": "12332"
     },
     "parts": {
-        "1": {
+        "10": {
             "identifiers": {
                 "imdb": "tt6799508"
             },
@@ -11,10 +11,10 @@
                 "Gekijouban Free! Timeless Medley"
             ],
             "parameters": {
-                "default_season": "1"
+                "default_season": "0"
             }
         },
-        "2": {
+        "11": {
             "identifiers": {
                 "imdb": "tt6799518"
             },
@@ -22,7 +22,7 @@
                 "Gekijouban Free! Timeless Medley"
             ],
             "parameters": {
-                "default_season": "1"
+                "default_season": "0"
             }
         }
     }

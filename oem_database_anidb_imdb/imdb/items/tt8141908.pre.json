@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "12996",
+        "imdb": "tt8141908"
+    },
+    "names": [
+        "Tokubetsuban Free! Take Your Marks"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "11"
+    }
+}
