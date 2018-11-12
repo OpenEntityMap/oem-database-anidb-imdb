@@ -7,6 +7,7 @@
         "Gekijouban Shakugan no Shana"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "3"
     }
 }
